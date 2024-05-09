@@ -1,1 +1,0 @@
-Python library that is focused on solving computational solutions class problems.
