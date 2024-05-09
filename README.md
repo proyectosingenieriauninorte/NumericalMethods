@@ -36,10 +36,6 @@ The repository is organized as follows:
 
 Each folder within the repository contains a specific README explaining how to use the corresponding implementation. Make sure to have the appropriate execution environment set up for each method.
 
-## Contributions
-
-Contributions are welcome! If you'd like to add a new numerical method or improve an existing implementation, feel free to submit a pull request. Be sure to follow the contribution guidelines outlined in `CONTRIBUTING.md`.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
