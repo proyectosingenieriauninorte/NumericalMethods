@@ -19,11 +19,11 @@ Se agregarán más métodos con el tiempo a medida que se desarrollen nuevas imp
 
 El repositorio está organizado de la siguiente manera:
 
-- `/BisectionMethod`: Implementación del método de bisección en Python.
-- `/NewtonRaphson`: Implementación del método de Newton-Raphson en C++.
-- `/SecantMethod`: Implementaciones de interpolación polinómica en MATLAB.
-- `/FixedPoint`: Implementaciones de métodos de integración numérica en Java.
-- `/RegulaFalsi`: Implementaciones de métodos para resolver ecuaciones diferenciales en Fortran.
+- `/BisectionMethod`
+- `/NewtonRaphson`
+- `/SecantMethod`
+- `/FixedPoint`
+- `/RegulaFalsi`
 
 ## Uso
 
