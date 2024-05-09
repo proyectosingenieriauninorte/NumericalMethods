@@ -1,42 +1,46 @@
+# Numerical Methods Repository
 
-# Repositorio de Métodos Numéricos
+This repository contains implementations of numerical methods focused on Python. The included methods are useful for solving mathematical problems using computational techniques.
 
-Este repositorio contiene implementaciones de métodos numéricos enfocado en Python. Los métodos incluidos aquí son útiles para resolver problemas matemáticos mediante técnicas computacionales.
+## Contents
 
-## Contenido
+Currently, this repository includes implementations of the following methods:
 
-Actualmente, este repositorio incluye implementaciones de los siguientes métodos:
+- **Bisection Method**: A method for finding roots of nonlinear equations.
+- **Newton-Raphson Method**: Used to find roots of functions through successive approximations.
+- **Polynomial Interpolation**: Includes methods such as Lagrange interpolation and Newton interpolation.
+- **Numerical Integration Methods**: Such as the trapezoidal rule and Simpson's rule.
+- **Differential Equation Solvers**: Such as Euler's method and Runge-Kutta methods.
 
-- **Método de Bisección**: Un método para encontrar raíces de ecuaciones no lineales.
-- **Método de Newton-Raphson**: Utilizado para encontrar raíces de funciones mediante aproximaciones sucesivas.
-- **Interpolación Polinómica**: Incluye métodos como la interpolación de Lagrange y la interpolación de Newton.
-- **Métodos de Integración Numérica**: Como la regla del trapecio y la regla de Simpson.
-- **Métodos de Solución de Ecuaciones Diferenciales**: Como el método de Euler y el método de Runge-Kutta.
+More methods will be added over time as new implementations are developed.
 
-Se agregarán más métodos con el tiempo a medida que se desarrollen nuevas implementaciones.
+## Repository Structure
 
-## Estructura del Repositorio
+The repository is organized as follows:
 
-El repositorio está organizado de la siguiente manera:
+1. **Roots**:
+   - `/BisectionMethod`
+   - `/NewtonRaphson`
+   - `/SecantMethod`
+   - `/FixedPoint`
+   - `/RegulaFalsi`
 
-- `/BisectionMethod`
-- `/NewtonRaphson`
-- `/SecantMethod`
-- `/FixedPoint`
-- `/RegulaFalsi`
+2. **Conversions**:
+   - `/BinaryToDecimal`
+   - `/IEEE754`
 
-## Uso
+3. **Series**:
+   - `/TaylorSeries`
 
-Cada carpeta dentro del repositorio contiene un README específico que explica cómo utilizar la implementación correspondiente en cada lenguaje. Asegúrate de tener el entorno de ejecución adecuado configurado para cada método.
+## Usage
 
-## Contribuciones
+Each folder within the repository contains a specific README explaining how to use the corresponding implementation. Make sure to have the appropriate execution environment set up for each method.
 
-¡Las contribuciones son bienvenidas! Si deseas agregar un nuevo método numérico o mejorar una implementación existente, siéntete libre de enviar un pull request. Asegúrate de seguir las pautas de contribución descritas en `CONTRIBUTING.md`.
+## Contributions
 
-## Licencia
+Contributions are welcome! If you'd like to add a new numerical method or improve an existing implementation, feel free to submit a pull request. Be sure to follow the contribution guidelines outlined in `CONTRIBUTING.md`.
 
-Este repositorio está bajo la licencia [MIT](LICENSE).
+## License
 
----
+This repository is licensed under the [MIT License](LICENSE).
 
-Puedes personalizar este README agregando más detalles sobre los métodos numéricos específicos que estás incluyendo, los requisitos de instalación para cada lenguaje, ejemplos de uso o cualquier otra información relevante para los usuarios potenciales del repositorio. Espero que esto te ayude a comenzar.
