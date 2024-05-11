@@ -4,7 +4,7 @@ This repository contains implementations of numerical methods focused on Python.
 
 ---
 
-##epository Contents
+## Repository Contents
 
 This repository currently includes implementations of the following methods:
 
