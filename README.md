@@ -2,9 +2,11 @@
 
 This repository contains implementations of numerical methods focused on Python. The included methods are useful for solving mathematical problems using computational techniques.
 
-## Contents
+---
 
-Currently, this repository includes implementations of the following methods:
+##epository Contents
+
+This repository currently includes implementations of the following methods:
 
 - **Bisection Method**: A method for finding roots of nonlinear equations.
 - **Newton-Raphson Method**: Used to find roots of functions through successive approximations.
@@ -16,22 +18,34 @@ More methods will be added over time as new implementations are developed.
 
 ## Repository Structure
 
-The repository is organized as follows:
+The repository is structured as follows:
 
 1. **Roots**:
-   - `/BisectionMethod`
-   - `/NewtonRaphson`
-   - `/SecantMethod`
-   - `/FixedPoint`
-   - `/RegulaFalsi`
+   - `/BisectionMethod.py`
+   - `/FixedPoint.py`
+   - `/NewtonRaphson.py`
+   - `/RegulaFalsi.py`
+   - `/SecantMethod.py`
 
 2. **Conversions**:
-   - `/BinaryToDecimal`
-   - `/IEEE754`
+   - `/ConversionBinary.py`
+   - `/ConversionIEEE754.py`
 
-3. **Series**:
-   - `/TaylorSeries`
+3. **System Equations**:
+   - `/Crout.py`
+   - `/DDM.py`
+   - `/Doolittle.py`
+   - `/GaussSeidel.py`
+   - `/Jacobi.py`
 
+4. **Taylor Series**:
+   - `/TaylorSeries.py`
+
+Each directory contains specific implementations of the mentioned methods. As you develop more implementations or add new methods, you can expand this structure to maintain a clear and organized repository.
+
+---
+
+I hope this update is helpful. If you need further changes or additional details, please feel free to let me know.
 ## Usage
 
 Each folder within the repository contains a specific README explaining how to use the corresponding implementation. Make sure to have the appropriate execution environment set up for each method.
