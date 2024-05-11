@@ -1,4 +1,14 @@
 def DDM(m, n) :
+	"""
+    Checks if a square matrix m is diagonally dominant by rows (DDF).
+
+    Args:
+        m (list of lists): The input matrix as a list of lists representing rows.
+        n (int): The size of the square matrix (number of rows and columns).
+
+    Returns:
+        bool: True if the matrix is diagonally dominant by rows, False otherwise.
+    """
 	for i in range(0, n) :
 		suma = 0
 		for j in range(0, n) :
