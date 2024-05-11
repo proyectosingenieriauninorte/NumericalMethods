@@ -16,6 +16,8 @@ This repository currently includes implementations of the following methods:
 
 More methods will be added over time as new implementations are developed.
 
+---
+
 ## Repository Structure
 
 The repository is structured as follows:
@@ -45,10 +47,11 @@ Each directory contains specific implementations of the mentioned methods. As yo
 
 ---
 
-I hope this update is helpful. If you need further changes or additional details, please feel free to let me know.
 ## Usage
 
 Each folder within the repository contains a specific README explaining how to use the corresponding implementation. Make sure to have the appropriate execution environment set up for each method.
+
+---
 
 ## License
 
