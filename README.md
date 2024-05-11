@@ -2,7 +2,6 @@
 
 This repository contains implementations of numerical methods focused on Python. The included methods are useful for solving mathematical problems using computational techniques.
 
----
 
 ## Repository Contents
 
