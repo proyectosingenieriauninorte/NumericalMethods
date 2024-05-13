@@ -23,9 +23,9 @@ The repository is structured as follows:
    - `/ConversionBinary.py`
    - `/ConversionIEEE754.py`
 2. **LinearRegression**:
-  - `/LinearRegression.py`
+    - `/LinearRegression.py`
 3. **Numerical Derivation**:
-  - `/Derivativepy`
+    - `/Derivativepy`
 4. **Roots**:
    - `/BisectionMethod.py`
    - `/FixedPoint.py`
