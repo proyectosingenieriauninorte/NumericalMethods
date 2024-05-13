@@ -25,7 +25,7 @@ The repository is structured as follows:
 2. **LinearRegression**:
     - `/LinearRegression.py`
 3. **Numerical Derivation**:
-    - `/Derivativepy`
+    - `/Derivative.py`
 4. **Roots**:
    - `/BisectionMethod.py`
    - `/FixedPoint.py`
