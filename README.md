@@ -22,11 +22,13 @@ The repository is structured as follows:
 1. **Conversions**:
    - `/ConversionBinary.py`
    - `/ConversionIEEE754.py`
-2. **LinearRegression**:
+2. **DifferentialEquations:**
+    - `RungeKutta4th.py`
+4. **LinearRegression**:
     - `/LinearRegression.py`
-3. **Numerical Derivation**:
+5. **Numerical Derivation**:
     - `/Derivative.py`
-4. **Numerical Integration**:
+6. **Numerical Integration**:
     - `/GaussLegendre.py`
     - `/Simpson38.py`
     - `/TrapezoidalRule.py` 
