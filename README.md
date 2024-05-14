@@ -23,7 +23,7 @@ The repository is structured as follows:
    - `/ConversionBinary.py`
    - `/ConversionIEEE754.py`
 2. **Differential Equations:**
-    - `RungeKutta4th.py`
+    - `/RungeKutta4th.py`
 4. **Linear Regression**:
     - `/LinearRegression.py`
 5. **Numerical Derivation**:
