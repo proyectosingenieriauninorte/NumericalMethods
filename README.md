@@ -26,6 +26,10 @@ The repository is structured as follows:
     - `/LinearRegression.py`
 3. **Numerical Derivation**:
     - `/Derivative.py`
+4. **Numerical Integration**:
+    - `/GaussLegendre.py`
+    - `/Simpson38.py`
+    - `/TrapezoidalRule.py` 
 4. **Roots**:
    - `/BisectionMethod.py`
    - `/FixedPoint.py`
