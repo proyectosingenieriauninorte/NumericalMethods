@@ -46,7 +46,7 @@ def Simpson_3_8(f, lower_limit, upper_limit, num_intervals):
 #Example:
 x = sp.Symbol('x')
 f = (sp.cos(sp.sqrt(x))) / (sp.exp(x + sp.sqrt(x)))
-lower_limit = 1
+lower_limit = 1 
 upper_limit = 3
 num_intervals = 9
 
