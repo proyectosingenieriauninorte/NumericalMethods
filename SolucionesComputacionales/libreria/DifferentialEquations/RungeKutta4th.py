@@ -1,5 +1,4 @@
 import sympy as sp
-import matplotlib.pyplot as plt
 
 def runge_kutta(f, x0, y0, h, n):
     """
@@ -15,6 +14,8 @@ def runge_kutta(f, x0, y0, h, n):
     Returns:
         tuple: Two lists containing the x and y values at each step.
     """
+    x = sp.Symbol('x')
+    y = sp.Symbol('y')
     # Lists to store x and y values
     x_values = [x0]
     y_values = [y0]
@@ -38,7 +39,8 @@ def runge_kutta(f, x0, y0, h, n):
     
     return x_values, y_values
 
-# Example usage:
+"""
+#Example usage:
 x = sp.Symbol('x')
 y = sp.Symbol('y')
 f = x * sp.sqrt(y)
@@ -53,9 +55,4 @@ n = 3
 
 # Use the runge_kutta function to solve the differential equation
 x_values, y_values = runge_kutta(f, x0, y0, h, n)
-
-plt.plot(x_values, y_values, marker='o')
-plt.xlabel('x')
-plt.ylabel('y')
-plt.title('Graph of x vs. y')
-plt.show()
+"""

@@ -16,3 +16,4 @@ from .NumericalDerivation.Derivative import derivative
 from .NumericalIntegration.Simpson38 import Simpson_3_8
 from .NumericalIntegration.TrapezoidalRule import trapezoidal
 from .NumericalIntegration.GaussLegendre import gauss_legendre
+from .DifferentialEquations.RungeKutta4th import runge_kutta
