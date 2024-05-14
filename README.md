@@ -6,12 +6,11 @@ This repository contains implementations of numerical methods focused on Python.
 ## Repository Contents
 
 This repository currently includes implementations of the following methods:
-
-- **Bisection Method**: A method for finding roots of nonlinear equations.
-- **Newton-Raphson Method**: Used to find roots of functions through successive approximations.
+- **Conversions**: Binary to Decimal, IEEE 754.
+- **Finding roots**: Includes methods such as Bisection, Fixed Point, Newton Raphson, Regula Falsi, Secant.
 - **Polynomial Interpolation**: Includes methods such as Lagrange interpolation and Newton interpolation.
 - **Numerical Integration Methods**: Such as the trapezoidal rule and Simpson's rule.
-- **Differential Equation Solvers**: Such as Euler's method and Runge-Kutta methods.
+- **Differential Equation Solvers**: Such as Runge-Kutta methods.
 
 More methods will be added over time as new implementations are developed.
 
@@ -20,25 +19,27 @@ More methods will be added over time as new implementations are developed.
 
 The repository is structured as follows:
 
-1. **Roots**:
+1. **Conversions**:
+   - `/ConversionBinary.py`
+   - `/ConversionIEEE754.py`
+2. **LinearRegression**:
+    - `/LinearRegression.py`
+3. **Numerical Derivation**:
+    - `/Derivative.py`
+4. **Roots**:
    - `/BisectionMethod.py`
    - `/FixedPoint.py`
    - `/NewtonRaphson.py`
    - `/RegulaFalsi.py`
    - `/SecantMethod.py`
-
-2. **Conversions**:
-   - `/ConversionBinary.py`
-   - `/ConversionIEEE754.py`
-
-3. **System Equations**:
+5. **System Equations**:
    - `/Crout.py`
    - `/DDM.py`
    - `/Doolittle.py`
    - `/GaussSeidel.py`
    - `/Jacobi.py`
 
-4. **Taylor Series**:
+6. **Taylor Series**:
    - `/TaylorSeries.py`
 
 Each directory contains specific implementations of the mentioned methods. As you develop more implementations or add new methods, you can expand this structure to maintain a clear and organized repository.
