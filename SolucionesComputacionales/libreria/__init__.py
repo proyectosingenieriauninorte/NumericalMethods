@@ -11,7 +11,7 @@ from .SystemEquations.Doolittle import doolittle
 from .SystemEquations.GaussSeidel import gauss_seidel
 from .SystemEquations.Jacobi import jacobi
 from .SystemEquations.DDM import DDM
-from LinearRegression.LinearRegression import linear_regression
+from .LinearRegression.LinearRegression import linear_regression
 from .NumericalDerivation.Derivative import derivative
 from .NumericalIntegration.Simpson38 import Simpson_3_8
 from .NumericalIntegration.TrapezoidalRule import trapezoidal
