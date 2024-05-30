@@ -51,10 +51,11 @@ The repository is structured as follows:
 Each directory contains specific implementations of the mentioned methods. As you develop more implementations or add new methods, you can expand this structure to maintain a clear and organized repository.
 
 
-## Usage
+## Use of the library
 
-Each folder within the repository contains a specific README explaining how to use the corresponding implementation. Make sure to have the appropriate execution environment set up for each method.
-
+ - Latest version of `Python 3.12.3`
+ - `pip install marlonpy`
+ - Now, you can use the library: `import marlon py as mp`
 
 ## License
 
