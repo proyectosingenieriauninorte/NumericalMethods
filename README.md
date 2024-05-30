@@ -59,7 +59,7 @@ pip install marlonpy
 ```
 Now, you can use the library.
 ```bash
-import marlon py as mp
+import marlonpy as mp
 ```
 
 ## License
