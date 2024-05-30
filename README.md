@@ -54,8 +54,13 @@ Each directory contains specific implementations of the mentioned methods. As yo
 ## Use of the library
 
  - Latest version of `Python 3.12.3`
- - `pip install marlonpy`
- - Now, you can use the library: `import marlon py as mp`
+```bash
+pip install marlonpy
+```
+Now, you can use the library.
+```bash
+import marlon py as mp`
+```
 
 ## License
 
