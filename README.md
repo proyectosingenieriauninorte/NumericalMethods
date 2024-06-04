@@ -10,11 +10,12 @@ This repository contains implementations of numerical methods focused on Python.
 ## Repository Contents
 
 This repository currently includes implementations of the following methods:
-- **Conversions**: Binary to Decimal, IEEE 754.
-- **Finding roots**: Includes methods such as Bisection, Fixed Point, Newton Raphson, Regula Falsi, Secant.
-- **Polynomial Interpolation**: Includes methods such as Lagrange interpolation and Newton interpolation.
-- **Numerical Integration Methods**: Such as the trapezoidal rule and Simpson's rule.
-- **Differential Equation Solvers**: Such as Runge-Kutta methods.
+- **Number Conversions**: Binary to Decimal, IEEE 754.
+- **Root-Finding Methods**: Includes Bisection, Fixed Point, Newton-Raphson, Regula Falsi, and Secant methods.
+- **Linear Regression**: Techniques for modeling relationships between variables.
+- **Numerical Differentiation**: Methods for approximating derivatives.
+- **Numerical Integration**: Techniques such as the trapezoidal rule and Simpson's rule.
+- **Differential Equation Solvers**: Includes methods like Runge-Kutta.
 
 More methods will be added over time as new implementations are developed.
 
