@@ -7,6 +7,14 @@ This repository contains implementations of numerical methods in Python. The inc
 - Gabriela De Jesús Bula Pavia
 - Edgar Andrés Garcia Davila
 
+## Table of Contents
+
+- [Repository Contents](#repository-contents)
+- [Repository Structure](#repository-structure)
+- [Dependencies](#dependencies)
+- [Installation and Usage](#installation-and-usage)
+- [License](#license)
+
 ## Repository Contents
 
 This repository currently includes implementations of the following methods:
@@ -16,7 +24,7 @@ This repository currently includes implementations of the following methods:
 - **Numerical Differentiation**: Methods for approximating derivatives.
 - **Numerical Integration**: Techniques such as the Trapezoidal Rule, Gauss-Legendre, and Simpson's rule.
 - **Differential Equation Solvers**: Includes methods like Runge-Kutta.
-
+  
 ## Repository Structure
 
 The repository is structured as follows:
@@ -52,6 +60,11 @@ The repository is structured as follows:
 
 Each directory contains specific implementations of the mentioned methods.
 
+## Dependencies
+
+- [NumPy](https://www.numpy.org): the fundamental package for scientific computing in Python.
+- [SymPy](https://www.sympy.org/en/index.html): a Python library for symbolic mathematics.
+- [tabulate](https://pypi.org/project/tabulate/): Pretty-print tabular data in Python.
 
 ## Installation and Usage
 
