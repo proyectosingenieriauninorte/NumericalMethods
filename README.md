@@ -2,6 +2,8 @@
 
 This repository contains implementations of numerical methods in Python. The included methods are useful for solving mathematical problems using computational techniques. They are used to build the **marlonpy** Python package, which aims to help Systems Engineering students at Universidad del Norte, especially in their Computational Solutions to Engineering Problems course.
 
+Check out the oficial package site: https://pypi.org/project/marlonpy/0.1.1/
+
 ## Team: NRC 2381
 - Lena Carolina Castillo De la Espriella
 - Gabriela De Jesús Bula Pavia
