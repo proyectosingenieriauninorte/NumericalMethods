@@ -60,7 +60,7 @@ Latest version of `Python 3.12.3`
 pip install marlonpy==0.1.1
 ```
 
-If the command pip does not work in your computer, please try: 
+If the command `pip` does not work in your computer, please try: 
 ```bash
 py -m pip install marlonpy==0.1.1
 ```
