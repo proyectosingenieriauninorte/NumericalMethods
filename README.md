@@ -57,7 +57,7 @@ Each directory contains specific implementations of the mentioned methods.
 
  - Latest version of `Python 3.12.3`
 ```bash
-pip install marlonpy
+pip install marlonpy==0.1.1
 ```
 Now, you can use the library.
 ```bash
