@@ -17,9 +17,6 @@ This repository currently includes implementations of the following methods:
 - **Numerical Integration**: Techniques such as the trapezoidal rule, Gauss-Legendre, and Simpson's rule.
 - **Differential Equation Solvers**: Includes methods like Runge-Kutta.
 
-More methods will be added over time as new implementations are developed.
-
-
 ## Repository Structure
 
 The repository is structured as follows:
