@@ -53,7 +53,7 @@ The repository is structured as follows:
 6. **Taylor Series**:
    - `/TaylorSeries.py`
 
-Each directory contains specific implementations of the mentioned methods. As you develop more implementations or add new methods, you can expand this structure to maintain a clear and organized repository.
+Each directory contains specific implementations of the mentioned methods.
 
 
 ## Use of the library
