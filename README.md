@@ -14,7 +14,7 @@ This repository currently includes implementations of the following methods:
 - **Root-Finding Methods**: Includes Bisection, Fixed Point, Newton-Raphson, Regula Falsi, and Secant methods.
 - **Linear Regression**: Techniques for modeling relationships between variables.
 - **Numerical Differentiation**: Methods for approximating derivatives.
-- **Numerical Integration**: Techniques such as the trapezoidal rule, Gauss-Legendre, and Simpson's rule.
+- **Numerical Integration**: Techniques such as the Trapezoidal Rule, Gauss-Legendre, and Simpson's rule.
 - **Differential Equation Solvers**: Includes methods like Runge-Kutta.
 
 ## Repository Structure
