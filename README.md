@@ -1,6 +1,6 @@
 # Numerical Methods Repository
 
-This repository contains implementations of numerical methods focused on Python. The included methods are useful for solving mathematical problems using computational techniques.
+This repository contains implementations of numerical methods in Python. The included methods are useful for solving mathematical problems using computational techniques. They are used to build the **marlonpy** Python package, which aims to help Systems Engineering students at Universidad del Norte, especially in their Computational Solutions to Engineering Problems course.
 
 ## Team: NRC 2381
 - Lena Carolina Castillo De la Espriella
@@ -53,7 +53,7 @@ The repository is structured as follows:
 Each directory contains specific implementations of the mentioned methods.
 
 
-## Use of the library
+## Installation and Usage
 
 Latest version of `Python 3.12.3`
 ```bash
