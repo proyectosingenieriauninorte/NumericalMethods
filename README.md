@@ -1,7 +1,5 @@
 # Numerical Methods Repository
 
-This repository contains implementations of numerical methods in Python. The included methods are useful for solving mathematical problems using computational techniques. They are used to build the **marlonpy** Python package, which aims to help Systems Engineering students at Universidad del Norte, especially in their Computational Solutions to Engineering Problems course.
-
 Check out the oficial package site: https://pypi.org/project/marlonpy/0.1.1/
 
 ## Team: NRC 2381
@@ -11,11 +9,15 @@ Check out the oficial package site: https://pypi.org/project/marlonpy/0.1.1/
 
 ## Table of Contents
 
+- [Summary and Justification](#summary-and-justification)
 - [Repository Contents](#repository-contents)
 - [Repository Structure](#repository-structure)
 - [Dependencies](#dependencies)
-- [Installation and Usage](#installation-and-usage)
+- [Installation and Usage Instructions](#installation-and-usage-instructions)
 - [License](#license)
+
+## Summary and Justification
+This repository contains implementations of numerical methods in Python. The included methods are useful for solving mathematical problems using computational techniques. They are used to build the **marlonpy** Python package, which aims to help Systems Engineering students at Universidad del Norte, especially in their Computational Solutions to Engineering Problems course.
 
 ## Repository Contents
 
@@ -68,7 +70,7 @@ Each directory contains specific implementations of the mentioned methods.
 - [SymPy](https://www.sympy.org/en/index.html): a Python library for symbolic mathematics.
 - [tabulate](https://pypi.org/project/tabulate/): Pretty-print tabular data in Python.
 
-## Installation and Usage
+## Installation and Usage Instructions
 
 Latest version of `Python 3.12.3`
 ```bash
@@ -83,6 +85,12 @@ py -m pip install marlonpy==0.1.1
 Now, you can use the library.
 ```bash
 import marlonpy as mp
+```
+
+### Examples
+- IEEE 754 Conversion:
+```
+from marlonpy.
 ```
 
 ## License
