@@ -90,7 +90,14 @@ import marlonpy as mp
 ### Examples
 - IEEE 754 Conversion:
 ```
-from marlonpy.
+>>> from marlonpy.Conversions import ConversionIeee
+>>> num = '01000010101010100100000000000000'
+>>> print(ConversionIeee.ieee754(num))
+85.125
+```
+- Regula Falsi:
+```
+>>> from marlonpy.Roots import RegulaFalsi
 ```
 
 ## License
