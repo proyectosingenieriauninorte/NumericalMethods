@@ -74,12 +74,12 @@ Each directory contains specific implementations of the mentioned methods.
 
 Latest version of `Python 3.12.3`
 ```bash
-pip install marlonpy==0.1.1
+pip install marlonpy
 ```
 
 If the command `pip` does not work in your computer, please try: 
 ```bash
-py -m pip install marlonpy==0.1.1
+py -m pip install marlonpy
 ```
 
 Now, you can use the library.
