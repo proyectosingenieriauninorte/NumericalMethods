@@ -1,6 +1,6 @@
 # Numerical Methods Repository
 
-Check out the oficial package site: https://pypi.org/project/marlonpy/0.1.1/
+Check out the oficial package site: https://pypi.org/project/marlonpy/
 
 ## Team: NRC 2381
 - Lena Carolina Castillo De la Espriella
