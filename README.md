@@ -92,12 +92,19 @@ import marlonpy as mp
 ```
 >>> from marlonpy.Conversions import ConversionIeee
 >>> num = '01000010101010100100000000000000'
->>> print(ConversionIeee.ieee754(num))
-85.125
+>>> print('El equivalente de num en decimal es', ConversionIeee.ieee754(num))
+El equivalente de num en decimal es 85.125
 ```
 - Regula Falsi:
 ```
 >>> from marlonpy.Roots import RegulaFalsi
+>>> import sympy as sp
+>>> x = sp.Symbol('x')
+>>> f = sp.sec(sp.exp(sp.sqrt(x + 1))) - 3
+>>> a = 3
+>>> b = 3.1
+>>> print('La raíz aproximada es', RegulaFalsi.regula_falsi(f, a, b))
+La raíz aproximada es 3.06741643635292
 ```
 
 ## License
