@@ -5,9 +5,9 @@ Check out the oficial package site: https://pypi.org/project/marlonpy/
 Package developed for Universidad del Norte, focused on the Engineering Division. Supervised by professors Augusto Salazar and Marlon Piñeres.
 
 ## Team: NRC 2381
-- Lena Carolina Castillo De la Espriella
-- Gabriela De Jesús Bula Pavia
-- Edgar Andrés Garcia Davila
+- Lena Carolina Castillo De la Espriella: `LCCastillo03`
+- Gabriela De Jesús Bula Pavia: `paviag`
+- Edgar Andrés Garcia Davila: `EdgarGXI`
 
 ## Table of Contents
 
