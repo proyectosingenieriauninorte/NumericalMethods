@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="marlonpy",
-    version="0.1.1",
+    version="0.1.5",
     author="Gabriela Bula, Lena Castillo, Edgar Garcia",
     author_email="",
     description="A package for numerical methods in Python",
@@ -18,7 +18,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.12.3',
+    python_requires='>=3.10.2',
     install_requires=[
         "numpy",
         "sympy",
