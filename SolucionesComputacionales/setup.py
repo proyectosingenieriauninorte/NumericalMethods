@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="marlonpy",
-    version="0.1.5",
+    version="1.2.0",
     author="Gabriela Bula, Lena Castillo, Edgar Garcia",
     author_email="",
     description="A package for numerical methods in Python",
