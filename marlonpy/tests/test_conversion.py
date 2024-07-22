@@ -1,6 +1,6 @@
 import unittest
-from marlonpy.Conversions.ConversionIeee import ieee754
-from marlonpy.Conversions.ConversionBinary import binary_to_decimal
+from marlonpy.marlonpy.Conversions.ConversionIeee import ieee754
+from marlonpy.marlonpy.Conversions.ConversionBinary import binary_to_decimal
 
 class TestConversions(unittest.TestCase):
     def test_ieee754(self):
