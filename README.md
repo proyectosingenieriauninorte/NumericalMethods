@@ -112,6 +112,11 @@ La raíz aproximada es 3.06741643635292
 - Gabriela De Jesús Bula Pavia: `paviag`
 - Edgar Andrés Garcia Davila: `EdgarGXI`
 
+## Contributing
+
+Thanks for your interest in contributing to this project.
+Get started with our [Contributing Guide][contrib].
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
