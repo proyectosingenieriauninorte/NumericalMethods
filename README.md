@@ -121,5 +121,5 @@ Get started with our [Contributing Guide][contrib].
 
 This repository is licensed under the [MIT License](LICENSE).
 
-[contrib]: https://github.com/i-core/.github/blob/master/CONTRIBUTING.md
+[contrib]: https://github.com/proyectosingenieriauninorte/.github/blob/master/CONTRIBUTING.md
 
