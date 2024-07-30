@@ -1,0 +1,5 @@
+issue_template:
+  - https://github.com/proyectosingenieriauninorte/organization-templates/.github/ISSUE_TEMPLATE/bug_report.md
+  - https://github.com/proyectosingenieriauninorte/organization-templates/.github/ISSUE_TEMPLATE/feature_request.md
+  - https://github.com/proyectosingenieriauninorte/organization-templates/.github/ISSUE_TEMPLATE/question.md
+  - https://github.com/proyectosingenieriauninorte/organization-templates/.github/ISSUE_TEMPLATE/task.md
