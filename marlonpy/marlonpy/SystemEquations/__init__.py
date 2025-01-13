@@ -3,3 +3,4 @@
 #from Doolittle import doolittle
 #from GaussSeidel import gauss_seidel
 #from Jacobi import jacobi
+#from Cholesky import Cholesky
